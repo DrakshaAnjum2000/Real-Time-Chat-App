@@ -15,27 +15,30 @@ React (Create React App)
 React Router 4
 Moment JS
 SASS
-Screenshot
 
-Software
+# Software
 Before proceeding, please ensure you have the following software installed on your computer.
-Getting started
+# Getting started
 Please fork a copy of this repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Alternatively download or clone the master branch.
 
-Download & Install Dependencies on your machine
+# Download & Install Dependencies on your machine
 Clone the repo to your machine
-
 git clone <CloneURL>
-Lunch the backend
-Within terminal or cmd ensure you have navigated inside the 'Backend' directory and installed the dependencies
+
+# Lunch the backend
+1. Within terminal or cmd ensure you have navigated inside the 'Backend' directory and installed the dependencies
 cd <../path/to/Backend> 
 yarn install OR npm install
-Run the start script
+
+2. Run the start script
 yarn run start OR npm run start
-Lunch the frontend
-Open a new terminal window and navigate inside the 'Frontend' folder as you will need to keep the backend running in the background
+
+# Lunch the frontend
+1. Open a new terminal window and navigate inside the 'Frontend' folder as you will need to keep the backend running in the background
 cd <../path/to/Frontend> 
 yarn install OR npm install
-Run the start script
+
+3. Run the start script
 yarn run start OR npm run start
+
 Your app should be running on: http://localhost:3000
